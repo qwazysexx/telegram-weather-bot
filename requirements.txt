@@ -1,2 +1,2 @@
 aiohttp==3.10.10
-aiogram==3.13.1
+aiogram==3.13.1pip
